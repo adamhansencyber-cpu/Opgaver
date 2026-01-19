@@ -12,5 +12,10 @@
             //en kommentar
             Console.WriteLine("Hej med dig!");
         }
+        static void BBBMetode()
+        {
+            //en kommentar
+            Console.WriteLine("Hej med dig!");
+        }
     }
 }
