@@ -17,5 +17,10 @@
             //en kommentar
             Console.WriteLine("Hej med dig!");
         }
+        static void LevsMetode()
+        {
+            //en kommentar
+            Console.WriteLine("Hej med dig!");
+        }
     }
 }
